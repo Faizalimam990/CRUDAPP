@@ -1,4 +1,4 @@
-#CRUD App with Django, HTML, and CSS
+# CRUD App with Django, HTML, and CSS
 Welcome to my CRUD (Create, Read, Update, Delete) application built with Django, HTML, and CSS! This project serves as a showcase of my web development skills, combining the power of the Django framework with a clean and responsive front-end design.
 
 Tech Stack
@@ -18,10 +18,10 @@ Clone the Repository:
 
 bash
 
-git clone https://github.com/faizalimam990/crud-app.git
+> git clone https://github.com/faizalimam990/crud-app.git
 Install Dependencies:
 
-pip install -r requirements.txt
+> pip install -r requirements.txt
 Run the Development Server:
 
 
